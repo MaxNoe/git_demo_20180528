@@ -5,5 +5,6 @@
 * Big Bird
 * Maximilian Nöthe
 * Joshua Luckey
+* Simone Mender
 * Krümmelmonster
 * Peter Silie
