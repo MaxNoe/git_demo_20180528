@@ -2,3 +2,4 @@
 
 * Maximilian Nöthe
 * Joshua Luckey
+* Krümmelmonster
