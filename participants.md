@@ -8,3 +8,8 @@
 * Krümmelmonster
 * Peter Silie
 * Lars Möllerherm
+* Ali cia
+* Yvonne Kasper
+* Lena Linhoff
+* Rune Dominik
+* Jana Moschner
