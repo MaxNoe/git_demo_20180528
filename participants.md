@@ -7,6 +7,7 @@
 * Maximilian Nöthe
 * Alina Esfahani
 * Joshua Luckey
+* Simone Mender
 * Krümmelmonster
 * Peter Silie
 * Ali cia
