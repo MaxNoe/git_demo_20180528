@@ -7,3 +7,4 @@
 * Joshua Luckey
 * Krümmelmonster
 * Peter Silie
+* Kevin Schmidt
