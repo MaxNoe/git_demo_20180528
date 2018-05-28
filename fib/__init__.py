@@ -1,9 +1,8 @@
 def fib(N):
+    a = 1
+    b = 1
 
-    if N == 0:
-        return 1
+    for i in range(N):
+        a, b = b, a + b
 
-    if N == 1:
-        return 1
-
-    return fib(N - 1) + fib(N - 2)
+    return a
