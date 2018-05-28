@@ -1,4 +1,4 @@
-# Git Demo
+# Git Demo [![Build Status](https://travis-ci.org/MaxNoe/git_demo_20180528.svg?branch=master)](https://travis-ci.org/MaxNoe/git_demo_20180528)
 
 Git Tutorial for annecy
 
