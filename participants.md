@@ -10,7 +10,8 @@
 * Simone Mender
 * Krümmelmonster
 * Peter Silie
-* Lars Möllerherm
+* Felix Geyer
+* Lars Möllerhermr
 * Ali cia
 * Yvonne Kasper
 * Lena Linhoff
