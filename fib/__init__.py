@@ -5,4 +5,4 @@ def fib(N):
     for i in range(N):
         a, b = b, a + b
 
-    return b
+    return a
