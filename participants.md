@@ -7,4 +7,5 @@
 * Joshua Luckey
 * Krümmelmonster
 * Peter Silie
+* Rune Dominik
 * Jana Moschner 
