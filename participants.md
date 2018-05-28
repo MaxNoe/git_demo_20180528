@@ -5,3 +5,4 @@
 * Maximilian Nöthe
 * Joshua Luckey
 * Krümmelmonster
+* Peter Silie
