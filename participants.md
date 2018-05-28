@@ -6,3 +6,4 @@
 * Joshua Luckey
 * Krümmelmonster
 * Peter Silie
+* Jürgen Klopp
