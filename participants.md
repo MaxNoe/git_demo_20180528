@@ -8,3 +8,5 @@
 * Krümmelmonster
 * Peter Silie
 * Lena Linhoff
+* Rune Dominik
+* Jana Moschner 
